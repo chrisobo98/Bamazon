@@ -1,0 +1,11 @@
+{
+  "name": "bamazon-supervisor",
+  "version": "1.0.0",
+  "description": "Node.js & MySQL Amazon-like storefront Edit",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Bermudez",
+  "license": "ISC"
+}
