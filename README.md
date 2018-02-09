@@ -44,7 +44,7 @@ In Manager view user can:
  
 ![Screenshot](bamazon-manager.png)
 
-   *Updates real time on MySQL*
+   <p align:center>*Updates real time on MySQL*<p>
    
    ![Screenshot](mysql.png)
 
@@ -54,13 +54,6 @@ In Manager view user can:
 * [Node](https://nodejs.org/en/) - Application runtime environment that allows you to write server-side applications in JavaScript
 * [MySQL](https://www.mysql.com/products/workbench/) - Back-End Database
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
