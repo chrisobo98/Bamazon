@@ -44,7 +44,7 @@ In Manager view user can:
  
 ![Screenshot](bamazon-manager.png)
 
-   <p align:center>*Updates real time on MySQL*<p>
+   *Updates real time on MySQL*
    
    ![Screenshot](mysql.png)
 
